@@ -1,0 +1,1 @@
+var marks = 85;
